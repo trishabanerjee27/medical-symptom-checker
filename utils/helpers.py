@@ -6,6 +6,6 @@ def load_data(csv_path):
     # print(df)
     return df
 
-data_csv = "../data/ICDCodeSet.csv"
+# data_csv = "../data/ICDCodeSet.csv"
 
-load_data(data_csv)
+# load_data(data_csv)
